@@ -1,3 +1,4 @@
 # ibmML
 
-#Self Learning python for ML
+# Self Learning python for ML
+1. Regression 
